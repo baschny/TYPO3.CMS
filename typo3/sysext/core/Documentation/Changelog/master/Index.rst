@@ -1,5 +1,8 @@
-8.4-dev Changes
-===============
+
+.. include:: ../../Includes.txt
+
+8.4-dev Changes (master)
+========================
 
 **Table of contents**
 
