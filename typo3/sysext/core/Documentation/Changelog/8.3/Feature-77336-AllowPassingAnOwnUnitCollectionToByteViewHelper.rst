@@ -18,7 +18,7 @@ First example: Use the translation VH
 
 Second example: Provide a plain list
 
-.. code-block:: xhtml
+.. code-block:: html
 
    <f:format.bytes units="byte, kilo, mega, husel, pusel">{size}</f:format.bytes>
 
