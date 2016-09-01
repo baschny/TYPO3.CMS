@@ -13,4 +13,6 @@ underlying PHP function ``setlocale()`` does as well.
 
 .. code-block:: typoscript
 
-	config.locale_all = de_AT@euro, de_AT, de_DE, deu_deu
+   config.locale_all = de_AT@euro, de_AT, de_DE, deu_deu
+
+..

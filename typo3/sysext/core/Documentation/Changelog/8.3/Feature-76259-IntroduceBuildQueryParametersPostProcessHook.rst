@@ -45,3 +45,4 @@ firstResult     int|null    The offset to start retrieve rows from
 maxResults      int|null    The maximum number of rows to retrieve
 orderBy         array[]     Array of arrays containing fieldname/sorting pairs
 where           string[]    Array of where conditions to apply to the database query.
+==============  ==========  ===========

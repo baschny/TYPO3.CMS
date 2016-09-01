@@ -12,15 +12,15 @@ The BytesViewHelper accepts a new parameter named ``units``. It must be a comma 
 
 First example: Use the translation VH
 
-.. code-block::
+.. code-block:: none
 
-    {fileSize -> f:format.bytes(units: '{f:translate(\'viewhelper.format.bytes.units\', \'fluid\')}'}
+   {fileSize -> f:format.bytes(units: '{f:translate(\'viewhelper.format.bytes.units\', \'fluid\')}'}
 
 Second example: Provide a plain list
 
-.. code-block::
+.. code-block:: xhtml
 
-    <f:format.bytes units="byte, kilo, mega, husel, pusel">{size}</f:format.bytes>
+   <f:format.bytes units="byte, kilo, mega, husel, pusel">{size}</f:format.bytes>
 
 results in the currently used collection, provided by the core.
 
