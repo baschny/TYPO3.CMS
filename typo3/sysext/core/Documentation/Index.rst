@@ -8,66 +8,27 @@ Core Change Log
 **Table of contents**
 
 .. contents::
-	:local:
-	:depth: 1
+   :local:
+   :depth: 1
 
-Breaking Changes
-================
-
-.. toctree::
-	:maxdepth: 1
-	:titlesonly:
-	:glob:
-
-	Changelog/master/Breaking-*
-
-Features
-========
-
-.. toctree::
-	:maxdepth: 1
-	:titlesonly:
-	:glob:
-
-	Changelog/master/Feature-*
-
-Deprecation
+Change Logs
 ===========
 
 .. toctree::
-	:maxdepth: 1
-	:titlesonly:
-	:glob:
+   :maxdepth: 1
+   :titlesonly:
 
-	Changelog/master/Deprecation-*
-
-Important
-=========
-
-.. toctree::
-	:maxdepth: 1
-	:titlesonly:
-	:glob:
-
-	Changelog/master/Important-*
-
-Old changes
-===========
-
-.. toctree::
-	:maxdepth: 1
-	:titlesonly:
-
-   	Changelog/8.3/Index
-   	Changelog/8.2/Index
-   	Changelog/8.1/Index
-   	Changelog/8.0/Index
+   Changelog/master/Index
+   Changelog/8.3/Index
+   Changelog/8.2/Index
+   Changelog/8.1/Index
+   Changelog/8.0/Index
 
 How to contribute
 =================
 
 .. toctree::
-	:maxdepth: 1
-	:titlesonly:
+   :maxdepth: 1
+   :titlesonly:
 
-	Changelog/Howto
+   Changelog/Howto
