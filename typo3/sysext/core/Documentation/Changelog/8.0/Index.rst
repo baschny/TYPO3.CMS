@@ -1,3 +1,6 @@
+
+.. include:: ../../Includes.txt
+
 8.0 Changes
 ===========
 
